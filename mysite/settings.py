@@ -25,7 +25,7 @@ SECRET_KEY = '&p(0e4u#dk=@uuk^2el&d0*795d-9a-qmboh)l!2m*lvcj=%#b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'pranavp2.pythonanywhere.com']
 
 
 # Application definition
